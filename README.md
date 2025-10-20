@@ -45,7 +45,7 @@ A full-stack e-learning platform where trainers can create courses, quizzes, and
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/E-learningg.git
+   git clone https://github.com/mariemamor/E-learnigg.git
    cd E-learningg
 Build and run Docker containers:
 
