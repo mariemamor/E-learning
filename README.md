@@ -59,14 +59,5 @@ Screenshots / Demo
 
 Live Demo: https://www.fastuz.com
 
-Impact / Results
-Increased test coverage by 50%
-
-Reduced deployment time by 40% with CI/CD
-
-Optimized query response times by 35%
-
-Improved frontend performance (Lighthouse) from 70 → 95+
-
 Contact
 For more info or code access (private repo), contact: mariem.mariem.amor33@gmail.com
